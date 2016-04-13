@@ -63,7 +63,7 @@
 
                     <TextView
                         android:id="@+id/article_title"
-                        android:textAppearance="@style/TextAppearance.ActionBar.Title"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"

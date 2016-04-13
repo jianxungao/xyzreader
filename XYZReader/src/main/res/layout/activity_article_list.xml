@@ -19,8 +19,6 @@
             android:paddingRight="@dimen/list_side_margin"
             android:scrollbarStyle="outsideOverlay"
         />
-        <!--android:paddingTop="116dp"-->
-        <!--android:paddingBottom="28dp"-->
     </android.support.v4.widget.SwipeRefreshLayout>
 
     <android.support.design.widget.AppBarLayout
@@ -28,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:fitsSystemWindows="true"
-        android:theme="@style/Theme.MyPencil.Toolbar"
+        android:theme="@style/AppTheme"
         android:elevation="@dimen/appbar_elevation">
 
         <android.support.v7.widget.Toolbar
